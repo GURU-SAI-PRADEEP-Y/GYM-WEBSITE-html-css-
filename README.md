@@ -1,5 +1,6 @@
 # GYM-WEBSITE-html-css-
 This is my first repository for web development - front end.
+This is having only html and css part...
 
 # HTML FILE....
 

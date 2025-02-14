@@ -236,3 +236,4 @@ img{
     80%{transform: translateX(-300%);}
     100%{transform: translateX(-300%);}
 }
+// This is the sample statement....
